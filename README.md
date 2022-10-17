@@ -25,12 +25,20 @@
 <img alt="Night Coding" width="242" src="https://github.com/MFaramawy/Neumorphism-Designs/blob/master/assets/layout/bottom_nav/Settings.png" align="center"/>
 </p>
 
-# Video Auth --------- Video OnBoarding ------- Video Bottom Nav Bar
+# Video Auth
 
-<p> https://user-images.githubusercontent.com/90357198/196274409-7b4e82e1-3d79-49dc-8b54-a101db40b30e.mp4 </p>
+<p>
+https://user-images.githubusercontent.com/90357198/196279195-166629b7-d7c3-42a4-9169-fed5f3bb4a44.mp4
+</p>
 
-<p> https://user-images.githubusercontent.com/90357198/196274863-7dc4d678-75c5-4596-8083-dcf79990955c.mp4 </p>
+# Video OnBoarding
+<p> 
+https://user-images.githubusercontent.com/90357198/196277670-4d354a12-28bb-441f-83b6-a90f45d025cb.mp4
+</p>
 
-<p> https://user-images.githubusercontent.com/90357198/196275677-a54cbc2e-0a4e-4663-afec-147abf065702.mp4 </p>
+# Video Bottom Nav Bar
+<p>
+https://user-images.githubusercontent.com/90357198/196278207-59ac477f-fe00-4f10-94b4-552717315423.mp4
+</p>
 
 
