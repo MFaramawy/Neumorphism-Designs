@@ -1,10 +1,9 @@
 import 'sign_in.dart';
-import '../widgets/main_button.dart';
 import 'package:flutter/cupertino.dart';
-import '../widgets/custom_text_form_field.dart';
 import 'package:neumorphic_design/core/app_colors.dart';
 import 'package:flutter_neumorphic/flutter_neumorphic.dart';
-
+import 'package:neumorphic_design/auth/widgets/main_button.dart';
+import 'package:neumorphic_design/auth/widgets/custom_text_form_field.dart';
 
 class SignUpScreen extends StatelessWidget {
   const SignUpScreen({Key? key}) : super(key: key);

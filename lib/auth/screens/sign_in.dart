@@ -1,10 +1,10 @@
 import 'sign_up.dart';
-import '../widgets/main_button.dart';
 import 'package:flutter/cupertino.dart';
-import '../widgets/custom_text_form_field.dart';
-import 'package:neumorphic_design/nav_bar/bottom_nav_bar.dart';
 import 'package:neumorphic_design/core/app_colors.dart';
 import 'package:flutter_neumorphic/flutter_neumorphic.dart';
+import 'package:neumorphic_design/nav_bar/bottom_nav_bar.dart';
+import 'package:neumorphic_design/auth/widgets/main_button.dart';
+import 'package:neumorphic_design/auth/widgets/custom_text_form_field.dart';
 
 class SignInScreen extends StatefulWidget {
   const SignInScreen({Key? key}) : super(key: key);
@@ -55,9 +55,7 @@ class _SignInScreenState extends State<SignInScreen> {
                     selectedColor: AppColors.primaryColor,
                   ),
                   padding: const EdgeInsets.all(4),
-                  onChanged: (value) {
-                    setState(() => val = value);
-                  },
+                  onChanged: (value) => setState(() => val = value),
                 ),
                 SizedBox(width: size.width / 35),
                 Text(
@@ -72,12 +70,12 @@ class _SignInScreenState extends State<SignInScreen> {
             SizedBox(height: size.height / 10),
             MainButton(
               label: 'Sign In',
-              onPressed: () {
-                Navigator.push(
-                    context,
-                    CupertinoPageRoute(
-                        builder: (_) => const BottomNavBarNeumorphism()));
-              },
+              onPressed: () => Navigator.push(
+                context,
+                CupertinoPageRoute(
+                  builder: (_) => const BottomNavBarNeumorphism(),
+                ),
+              ),
             ),
             SizedBox(height: size.height / 55),
             Row(
@@ -90,14 +88,11 @@ class _SignInScreenState extends State<SignInScreen> {
                   ),
                 ),
                 InkWell(
-                  onTap: () {
-                    Navigator.pushAndRemoveUntil(
+                  onTap: () => Navigator.pushAndRemoveUntil(
                       context,
                       CupertinoPageRoute(
                           builder: (context) => const SignUpScreen()),
-                      (route) => false,
-                    );
-                  },
+                      (route) => false),
                   child: const Text(
                     'SignUp now',
                     style: TextStyle(
