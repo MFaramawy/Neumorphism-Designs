@@ -28,17 +28,23 @@
 # Video Auth
 
 <p>
-https://user-images.githubusercontent.com/90357198/196279195-166629b7-d7c3-42a4-9169-fed5f3bb4a44.mp4
+
+
+https://user-images.githubusercontent.com/90357198/196279953-e52a8887-75fb-4ce1-a0c0-6433131c9293.mp4
 </p>
 
 # Video OnBoarding
 <p> 
-https://user-images.githubusercontent.com/90357198/196277670-4d354a12-28bb-441f-83b6-a90f45d025cb.mp4
+
+
+https://user-images.githubusercontent.com/90357198/196280362-d62f9ec6-5b8a-43b4-b5b9-ea6c13333a37.mp4
 </p>
 
 # Video Bottom Nav Bar
 <p>
-https://user-images.githubusercontent.com/90357198/196278207-59ac477f-fe00-4f10-94b4-552717315423.mp4
+
+
+https://user-images.githubusercontent.com/90357198/196280863-d8fbd119-9382-4e80-9934-ec4efa847391.mp4
 </p>
 
 
