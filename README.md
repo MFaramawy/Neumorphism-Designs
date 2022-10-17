@@ -1,16 +1,39 @@
-# neumorphic_design
+# Neumorphism Design
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# On Boarding
+<p>
+<img alt="Night Coding" width="300" src="https://github.com/MFaramawy/Quote-App/blob/master/assets/layout/onboarding/OnBoarding_Neumorphism_1.png" align="center"/>
+<img alt="Night Coding" width="300" src="https://github.com/MFaramawy/Quote-App/blob/master/assets/layout/onboarding/OnBoarding_Neumorphism_2.png" align="center"/>
+<img alt="Night Coding" width="300" src="https://github.com/MFaramawy/Quote-App/blob/master/assets/layout/onboarding/OnBoarding_Neumorphism_3.png" align="center"/>
 
-A few resources to get you started if this is your first Flutter project:
+# Video
+<video alt="Night Coding" width="300" src="https://github.com/MFaramawy/Quote-App/blob/master/assets/layout/onboarding/OnBoarding_Neumorphism_Video.mp4" align="center"/>
+</p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Authentication
+
+<p>
+<img alt="Night Coding" width="300" src="https://github.com/MFaramawy/Quote-App/blob/master/assets/layout//auth/Sign_In_Neumorphism.png" align="center"/>
+<img alt="Night Coding" width="300" src="https://github.com/MFaramawy/Quote-App/blob/master/assets/layout//auth/Sign_In_Neumorphism1.png" align="center"/>
+<img alt="Night Coding" width="300" src="https://github.com/MFaramawy/Quote-App/blob/master/assets/layout//auth/Sign_Up_Neumorphism.png" align="center"/>
+
+# Video
+
+<video alt="Night Coding" width="300" src="https://github.com/MFaramawy/Quote-App/blob/master/assets/layout/auth/Auth_Neumorphism_video.mp4" align="center"/>
+</p>
+
+# Bottom Navigation Bar
+<p>
+<img alt="Night Coding" width="300" src="https://github.com/MFaramawy/Quote-App/blob/master/assets/layout/bottom_nav/Home.png" align="center"/>
+<img alt="Night Coding" width="300" src="https://github.com/MFaramawy/Quote-App/blob/master/assets/layout/bottom_nav/Favorite.png" align="center"/>
+<img alt="Night Coding" width="300" src="https://github.com/MFaramawy/Quote-App/blob/master/assets/layout/bottom_nav/Profile.png" align="center"/>
+<img alt="Night Coding" width="300" src="https://github.com/MFaramawy/Quote-App/blob/master/assets/layout/bottom_nav/Settings.png" align="center"/>
+
+# Video
+
+<video alt="Night Coding" width="300" src="https://github.com/MFaramawy/Quote-App/blob/master/assets/layout/bottom_nav/bottom_nav_video.mp4" align="center"/>
+
+</p>
