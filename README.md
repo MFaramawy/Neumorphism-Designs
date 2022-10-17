@@ -28,6 +28,8 @@
 
 # Videos
 <p>
+[![video session](https://github.com/MFaramawy/Neumorphism-Designs/blob/master/assets/layout/onboarding/OnBoarding_Neumorphism_1.png)](https://github.com/MFaramawy/Neumorphism-Designs/blob/master/assets/layout/onboarding/OnBoarding_Neumorphism_Video.mp4)  
+
 <video alt="Night Coding" width="250" src="https://github.com/MFaramawy/Neumorphism-Designs/blob/master/assets/layout/onboarding/OnBoarding_Neumorphism_Video.mp4" align="center"/>
   
 <video alt="Night Coding" width="250" src="https://github.com/MFaramawy/Neumorphism-Designs/blob/master/assets/layout/auth/Auth_Neumorphism_video.mp4" align="center"/>
