@@ -24,10 +24,10 @@
 
 # Bottom Navigation Bar
 <p>
-<img alt="Night Coding" width="280" src="https://github.com/MFaramawy/Neumorphism-Designs/blob/master/assets/layout/bottom_nav/Home.png" align="center"/>
-<img alt="Night Coding" width="280" src="https://github.com/MFaramawy/Neumorphism-Designs/blob/master/assets/layout/bottom_nav/Favorite.png" align="center"/>
-<img alt="Night Coding" width="280" src="https://github.com/MFaramawy/Neumorphism-Designs/blob/master/assets/layout/bottom_nav/Profile.png" align="center"/>
-<img alt="Night Coding" width="280" src="https://github.com/MFaramawy/Neumorphism-Designs/blob/master/assets/layout/bottom_nav/Settings.png" align="center"/>
+<img alt="Night Coding" width="260" src="https://github.com/MFaramawy/Neumorphism-Designs/blob/master/assets/layout/bottom_nav/Home.png" align="center"/>
+<img alt="Night Coding" width="260" src="https://github.com/MFaramawy/Neumorphism-Designs/blob/master/assets/layout/bottom_nav/Favorite.png" align="center"/>
+<img alt="Night Coding" width="260" src="https://github.com/MFaramawy/Neumorphism-Designs/blob/master/assets/layout/bottom_nav/Profile.png" align="center"/>
+<img alt="Night Coding" width="260" src="https://github.com/MFaramawy/Neumorphism-Designs/blob/master/assets/layout/bottom_nav/Settings.png" align="center"/>
 
 <video alt="Night Coding" width="280" src="https://github.com/MFaramawy/Neumorphism-Designs/blob/master/assets/layout/bottom_nav/bottom_nav_video.mp4" align="center"/>
 
