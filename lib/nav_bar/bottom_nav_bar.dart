@@ -2,14 +2,15 @@ import 'package:flutter/cupertino.dart';
 import 'package:neumorphic_design/core/app_colors.dart';
 import 'package:flutter_neumorphic/flutter_neumorphic.dart';
 
-class TestApp extends StatefulWidget {
-  const TestApp({Key? key}) : super(key: key);
+class BottomNavBarNeumorphism extends StatefulWidget {
+  const BottomNavBarNeumorphism({Key? key}) : super(key: key);
 
   @override
-  State<TestApp> createState() => _TestAppState();
+  State<BottomNavBarNeumorphism> createState() =>
+      _BottomNavBarNeumorphismState();
 }
 
-class _TestAppState extends State<TestApp> {
+class _BottomNavBarNeumorphismState extends State<BottomNavBarNeumorphism> {
   int index = 0;
   @override
   Widget build(BuildContext context) {

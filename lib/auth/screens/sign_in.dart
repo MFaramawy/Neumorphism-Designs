@@ -2,7 +2,7 @@ import 'sign_up.dart';
 import '../widgets/main_button.dart';
 import 'package:flutter/cupertino.dart';
 import '../widgets/custom_text_form_field.dart';
-import 'package:neumorphic_design/nav_bar/test.dart';
+import 'package:neumorphic_design/nav_bar/bottom_nav_bar.dart';
 import 'package:neumorphic_design/core/app_colors.dart';
 import 'package:flutter_neumorphic/flutter_neumorphic.dart';
 
@@ -73,8 +73,10 @@ class _SignInScreenState extends State<SignInScreen> {
             MainButton(
               label: 'Sign In',
               onPressed: () {
-                // Navigator.push(context,
-                //     CupertinoPageRoute(builder: (_) => const TestApp()));
+                Navigator.push(
+                    context,
+                    CupertinoPageRoute(
+                        builder: (_) => const BottomNavBarNeumorphism()));
               },
             ),
             SizedBox(height: size.height / 55),
